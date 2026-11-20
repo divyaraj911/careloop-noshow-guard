@@ -1,6 +1,6 @@
 # CareLoop Clinics: no-show analysis
 
-**GitHub repo:** <PASTE YOUR PUBLIC REPO LINK HERE>
+**GitHub repo:** <https://github.com/divyaraj911/careloop-noshow-guard/tree/main>
 
 ## Summary (one finding per Part)
 - **Part 1:** 1,020 raw rows were cleaned to 990 rows (duplicates and rows with missing date or status removed); the no-show rate is 22.0% (218 of 990 bookings).
